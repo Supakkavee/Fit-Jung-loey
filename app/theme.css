@@ -1,0 +1,25 @@
+GtkImage, GtkGrid{
+  background-color: white;
+}
+
+GtkWindow {
+  font: Comic Sans 12
+  background-color: green;
+  border-width: 3px;
+  border-color: blue;
+  background-image: url("1.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.button {
+  color: green;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

@@ -1,0 +1,2 @@
+gcc -o test test1.c `pkg-config --cflags --libs gtk+-3.0`
+
