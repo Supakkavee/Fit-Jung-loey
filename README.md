@@ -28,7 +28,7 @@
    นาย วรเชษฐ์ | นิ่มเจริญ | @WorachetNimcharoen | 61070169 |
    นาย สุภัควี | สุโพธิ์ | @Supakkavee | 61070251 |
    
-# Special Thank
+# Assistant Teacher
 -----------------
 ##### Asst Profressor Kitsuchart Pasupa
 ##### รศ. ดร. กิติ์สุชาต พสุภา
