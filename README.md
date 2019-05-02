@@ -42,6 +42,8 @@
 -----------------
 ##### Asst Profressor Kitsuchart Pasupa
 ##### รศ. ดร. กิติ์สุชาต พสุภา
+
+<img src="img/Professer1.jpg" alt="" width="100px" style="max-width:100%;">
 -----------------
 ##### Asst Profressor Panwit Tuwanut
 ##### รศ. ดร. ปานวิทย์ ธุวะนุติ
