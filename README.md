@@ -46,10 +46,10 @@
 
    Name | Surname |  Github Username | Student ID
    ----- | ----- | ----- | ----- |
-   นาย กิตติทัช | ชิ้นรัมย์ | @Kittitadchinram | 61070013 |
-   นาย นฤเบศ | เหลืองรุ่งอุดม | @boatnaruebes | 61070100 |
-   นาย วรเชษฐ์ | นิ่มเจริญ | @WorachetNimcharoen | 61070169 |
-   นาย สุภัควี | สุโพธิ์ | @Supakkavee | 61070251 |
+   นาย กิตติทัช | ชิ้นรัมย์ | [@Kittitadchinram](https://github.com/Kittitadchinram) | 61070013 |
+   นาย นฤเบศ | เหลืองรุ่งอุดม | [@boatnaruebes](https://github.com/boatnaruebes) | 61070100 |
+   นาย วรเชษฐ์ | นิ่มเจริญ | [@WorachetNimcharoen](https://github.com/WorachetNimcharoen) | 61070169 |
+   นาย สุภัควี | สุโพธิ์ | [@Supakkavee](https://github.com/Supakkavee) | 61070251 |
    
 # Assistant Teacher
 -----------------
