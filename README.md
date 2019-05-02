@@ -11,9 +11,9 @@
 โปรแกรมของเราจำเป็นต้องใช้ gcc และ gtk3+
 
 ----------------------
- gcc (https://gcc.gnu.org/)
+ - gcc (https://gcc.gnu.org/)
  
- gtk3+ (https://www.gtk.org/)
+ - gtk3+ (https://www.gtk.org/)
  
  # How to compile program
  
