@@ -36,7 +36,7 @@
 |<img src="img/team1.jpg" width="120px" alt="" style="max-width:100%;">|Kittitad|Chinram|[@sKittitadchinram](https://github.com/Kittitadchinram)|61070013|
 |<img src="img/team2.jpg" width="120px" alt="" style="max-width:100%;">|Naruebes|Lueangrungudom|[@boatnaruebes](https://github.com/boatnaruebes)|61070100|
 |<img src="img/team3.jpg" width="120px" alt="" style="max-width:100%;">|Worachet|Nimcharoen|[@WorachetNimcharoen](https://github.com/WorachetNimcharoen)|61070196|
-|<img src="img/team4.jpg" width="120px" alt="" style="max-width:100%;">|Vasanchai|Prakobkij|[@Supakkavee](https://github.com/Supakkavee)|61070251|
+|<img src="img/team4.jpg" width="120px" alt="" style="max-width:100%;">|Supakkavee|Supho|[@Supakkavee](https://github.com/Supakkavee)|61070251|
 
 # Assistant Teacher
 -----------------
