@@ -44,8 +44,8 @@
 <table>
 <thead>
 <tr>
-<th align="center"><img src="img/professer_1.jpg" alt="" style="max-width:100%;"></a></th>
-<th align="center"><img src="img/professer_2.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="img/Professer1.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="img/Professer2.jpg" alt="" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 <tbody>
