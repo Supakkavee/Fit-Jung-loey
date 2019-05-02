@@ -17,7 +17,7 @@
  
  # How to compile program
  
- gcc -o test test1.c `pkg-config --cflags --libs gtk+-3.0`
+ - gcc -o test test1.c `pkg-config --cflags --libs gtk+-3.0`
 
 ##### test1.c คือชื่อไฟล์ของโปรแกรมที่ผู้ใช้จะรัน
 ![Image](https://i.ytimg.com/vi/B-ru-q_Bm2I/maxresdefault.jpg)
