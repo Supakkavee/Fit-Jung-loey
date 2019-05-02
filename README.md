@@ -40,13 +40,18 @@
    
 # Assistant Teacher
 -----------------
-##### Asst Profressor Kitsuchart Pasupa
-##### รศ. ดร. กิติ์สุชาต พสุภา
 
-<img src="img/Professer1.jpg" alt="" width="100px" style="max-width:100%;">
------------------
-
-##### Asst Profressor Panwit Tuwanut
-##### รศ. ดร. ปานวิทย์ ธุวะนุติ
-<img src="img/Professer2.jpg" alt="" width="100px" style="max-width:100%;">
------------------
+<table>
+<thead>
+<tr>
+<th align="center"><img src="img/professer_1.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="img/professer_2.jpg" alt="" style="max-width:100%;"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> Asst Profressor Kitsuchart Pasupa<br>ผศ. ดร. กิติ์สุชาต พสุภา</td>
+<td align="center"> Asst Profressor Panwit Tuwanut<br>ผศ. ดร. ปานวิทย์ ธุวะนุติ</td>
+</tr>
+</tbody>
+</table>
