@@ -20,7 +20,7 @@
  gcc -o test test1.c `pkg-config --cflags --libs gtk+-3.0`
 
 test1.c คือชื่อไฟล์ของโปรแกรมที่ผู้ใช้จะรัน
-
+![Image](Howtorun.jpg)
 test คือโปรแกรมหลังจากที่ผู้ใช้รัน gcc
 
  
