@@ -31,13 +31,13 @@
 
 # Member
 
-   Name | Surname |  Github Username | Student ID
-   ----- | ----- | ----- | ----- |
-   นาย กิตติทัช | ชิ้นรัมย์ | [@Kittitadchinram](https://github.com/Kittitadchinram) | 61070013 |
-   นาย นฤเบศ | เหลืองรุ่งอุดม | [@boatnaruebes](https://github.com/boatnaruebes) | 61070100 |
-   นาย วรเชษฐ์ | นิ่มเจริญ | [@WorachetNimcharoen](https://github.com/WorachetNimcharoen) | 61070169 |
-   นาย สุภัควี | สุโพธิ์ | [@Supakkavee](https://github.com/Supakkavee) | 61070251 |
-   
+   |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
+|:-:|--|------|---------------|---------|
+|<img src="img/team1.jpg" width="120px" alt="" style="max-width:100%;">|Kittitad|Chinram|[@sKittitadchinram](https://github.com/Kittitadchinram)|61070013|
+|<img src="img/team2.jpg" width="120px" alt="" style="max-width:100%;">|Naruebes|Lueangrungudom|[@boatnaruebes](https://github.com/boatnaruebes)|61070100|
+|<img src="img/team3.jpg" width="120px" alt="" style="max-width:100%;">|Worachet|Nimcharoen|[@WorachetNimcharoen](https://github.com/WorachetNimcharoen)|61070196|
+|<img src="img/team4.jpg" width="120px" alt="" style="max-width:100%;">|Vasanchai|Prakobkij|[@Supakkavee](https://github.com/Supakkavee)|61070251|
+
 # Assistant Teacher
 -----------------
 
