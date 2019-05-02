@@ -19,11 +19,12 @@
  
  gcc -o test test1.c `pkg-config --cflags --libs gtk+-3.0`
 
-test1.c คือชื่อไฟล์ของโปรแกรมที่ผู้ใช้จะรัน
-![Image](Howtorun.jpg)
-test คือโปรแกรมหลังจากที่ผู้ใช้รัน gcc
+##### test1.c คือชื่อไฟล์ของโปรแกรมที่ผู้ใช้จะรัน
+![Image](https://i.ytimg.com/vi/B-ru-q_Bm2I/maxresdefault.jpg)
 
- 
+##### test คือโปรแกรมหลังจากที่ผู้ใช้รัน gcc
+![Image](http://www.as2.com/pictures/png/test-1-us.png)
+
 # Abstract(บทคัดย่อ)
 
   แอพพลิเคชั่น ฟิตจังเลย(Fit Jung Loei)นี้มีจุดประสงค์จัดทำขึ้นเพื่อเปลี่ยนแปลงพฤติกรรมการบริโภคและการออกกำลังกายของประชากรไทยเพื่อลดปัญหาสุขภาพที่มาพร้อมกับ
