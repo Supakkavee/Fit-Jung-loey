@@ -22,11 +22,11 @@ static void print_bmi(int argc, char **argv) {
     GtkWidget *window, *grid, *calculate;
     gtk_init(&argc, &argv);
 
-    window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
+    window = gtk_window_new(GTK_WINDOW_TOPLEVEL);//create window
     g_signal_connect(window, "destroy", G_CALLBACK(gtk_main_quit), NULL);
-    gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");
+    gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");//title
 
-    grid = gtk_grid_new();
+    grid = gtk_grid_new();//position
     gtk_container_add(GTK_CONTAINER(window), grid);
 
     result = gtk_label_new("weight:");
@@ -49,8 +49,8 @@ static void print_bmi(int argc, char **argv) {
 
     result = gtk_label_new("result:");
     gtk_grid_attach(GTK_GRID(grid), result, 1, 5, 1, 1);
-    gtk_widget_set_size_request(GTK_WIDGET(window),500,500);
-    gtk_container_set_border_width (GTK_CONTAINER (window), 200);
+    gtk_widget_set_size_request(GTK_WIDGET(window),500,500);//window size
+    gtk_container_set_border_width (GTK_CONTAINER (window), 200);//window border 
     gtk_widget_show_all(window);
     gtk_main();
 
@@ -59,18 +59,18 @@ static void print_bmi(int argc, char **argv) {
 static void print_work(GtkWidget *widget,gpointer data){
 
   GtkWidget *window, *image, *button,*grid;
-  window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
+  window = gtk_window_new(GTK_WINDOW_TOPLEVEL);//create window
   g_signal_connect(window, "destroy", G_CALLBACK(gtk_main_quit), NULL);
   gtk_window_set_default_size(GTK_WINDOW(window), 500, 500);
-  gtk_window_set_position(GTK_WINDOW(window), GTK_WIN_POS_CENTER);
-  gtk_container_set_border_width(GTK_CONTAINER(window), 5);
+  gtk_window_set_position(GTK_WINDOW(window), GTK_WIN_POS_CENTER);//set position
+  gtk_container_set_border_width(GTK_CONTAINER(window), 5);//window border 
   gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");
 
   grid = gtk_grid_new ();
-  gtk_container_add (GTK_CONTAINER (window), grid);
+  gtk_container_add (GTK_CONTAINER (window), grid);//add in window
 
-  image = gtk_image_new_from_file("2.png");
-  gtk_container_add (GTK_CONTAINER (window), image);
+  image = gtk_image_new_from_file("2.png");//call image
+  gtk_container_add (GTK_CONTAINER (window), image);//add in window
   gtk_grid_attach (GTK_GRID (grid), image, 2, 0, 1, 1);
   gtk_widget_show_all(window);
   gtk_main();
@@ -83,9 +83,9 @@ static void print_hello (GtkWidget *widget,gpointer data){
     GtkWidget *grid, *button;
 
 
-    window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
-    gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");
-    gtk_window_set_default_size(GTK_WINDOW(window), 500, 500);
+    window = gtk_window_new(GTK_WINDOW_TOPLEVEL);//create window
+    gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");//title
+    gtk_window_set_default_size(GTK_WINDOW(window), 500, 500);//window size
     gtk_container_set_border_width(GTK_CONTAINER(window), 5);
     g_signal_connect(window, "destroy", G_CALLBACK(gtk_main_quit), NULL);
 
@@ -104,12 +104,13 @@ static void activate (GtkApplication *app,gpointer user_data){
   GtkWidget *window;
   GtkWidget *grid;
   GtkWidget *button,*image;
+ //----------------------------css----------------------------//
   GtkCssProvider *cssProvider = gtk_css_provider_new();
   gtk_css_provider_load_from_path(cssProvider, "theme.css", NULL);
   gtk_style_context_add_provider_for_screen(gdk_screen_get_default(),
                                GTK_STYLE_PROVIDER(cssProvider),
                                GTK_STYLE_PROVIDER_PRIORITY_USER);
-
+//-----------------------------------------------------------//
   window = gtk_application_window_new (app);
   gtk_window_set_title (GTK_WINDOW (window), "Fit Jung Loey");
   gtk_container_set_border_width (GTK_CONTAINER (window), 200);
@@ -154,5 +155,5 @@ int main (int argc,char **argv){
 
   return status;
 }
-
+//set appication
 
