@@ -27,6 +27,8 @@
 ##### test คือโปรแกรมหลังจากที่ผู้ใช้รัน gcc
 ![Image](http://www.as2.com/pictures/png/test-1-us.png)
 
+# link vedio
+ - https://youtu.be/Ez7pgXG1D6g
 
 # Member
 
